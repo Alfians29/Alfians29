@@ -15,6 +15,8 @@
 
 - ⚡ Fun fact **I think I'm a little funny.**
 
+- 📁 My repository when I was at school 2017-2020 [**Press this!**](https://github.com/Alfian29?tab=repositories)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/alfiyyann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alfiyyann" height="30" width="40" /></a>
