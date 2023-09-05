@@ -27,8 +27,6 @@
 <a href="https://github.com/Alfians29">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alfians29&theme=radical" height="180em" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfians29&layout=compact&theme=radical&hide_border=true" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alfians29&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alfians29&theme=radical" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alfians29&theme=radical" height="180em" />
 </div>
 
