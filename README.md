@@ -31,6 +31,3 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfians29&layout=compact&theme=radical&hide_border=true" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alfians29&theme=radical" height="180em" />
 </div>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
