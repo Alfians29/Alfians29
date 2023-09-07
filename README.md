@@ -31,4 +31,4 @@
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Alfians29&icon=5&color=10)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alfians29&label=Profile%20views&color=9e9e9e&style=flat" alt="alfians29" /> </p>
