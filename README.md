@@ -1,6 +1,6 @@
 ---
 <h1 align="center">Hi 👋, I'm Muhammad Alfian</h1>
-<h3 align="center">Someone from Indonesia who is interested in coding (especially frontend), because coding is endless.</h3>
+<h3 align="center">Someone from Indonesia who is interested in coding especially frontend</h3>
 <br>
 
 - 🔭 I’m currently working on **Telkom Indonesia as a Data Management**
