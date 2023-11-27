@@ -5,13 +5,9 @@
 
 - I’m currently working on **Telkom Indonesia as a Data Management**
 
-- I’m currently learning **Frameworks**
-
-- Ask me about **HTML, CSS, Javascript, etc**
+- I’m currently learning **JavaScript Frameworks**
 
 - How to reach me **me.alfians29@gmail.com**
-
-- Fun fact **I don't like freshwater fish**
 
 - My old repository when I was at school 2017-2020 [**Press this!**](https://github.com/Alfian29?tab=repositories)
 
