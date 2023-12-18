@@ -5,7 +5,7 @@
 
 - I’m currently working on **Telkom Indonesia as a Data Management**
 
-- I’m currently learning **JavaScript Frameworks**
+- I’m currently learning **JavaScript Frameworksss**
 
 - How to reach me **me.alfians29@gmail.com**
 
