@@ -8,7 +8,7 @@ I'm currently learning to love the impossible.
 
 Data Management Staff at [Telkom Indonesia](https://www.telkom.co.id/);<br>
 
-- ⚙️ That I use : `.ts`, `.js`, `.php`, `.html`, `.css`, `.fig`
+- ⚙️ That I use : `.ts`, `.js`, `.fig`
 - 🎓 Graduates of **Telkom School Malang**
 - 💬 `ping` me about **frontend**, **ui/ux**, **development**, **design thinking**
 
