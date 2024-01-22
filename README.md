@@ -10,7 +10,7 @@ Data Management Staff at [Telkom Indonesia](https://www.telkom.co.id/);<br>
 
 - ⚙️ That I use : `.js`, `.ts`, `.fig`
 - 🎓 Graduates of **Telkom School Malang**
-- 💬 `ping` me about **frontend**, **ui/ux**, **development**
+- 💬 `ping` me about **frontend**, **ui/ux**, **web development**
 
 <details>
 <summary>⚡️ More about my coding life</summary>
